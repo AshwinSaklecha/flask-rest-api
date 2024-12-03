@@ -21,7 +21,8 @@ A RESTful API built with Flask for managing student records. This API provides c
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AshwinSaklecha/flask-rest-api.git
+   cd flask-rest-api
    ```
 
 2. Install dependencies:
