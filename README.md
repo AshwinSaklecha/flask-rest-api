@@ -134,16 +134,7 @@ Response:
 }
 ```
 
-## 🚀 Deployment
 
-The application is configured to run on both local development environments and production servers. For production deployment:
-
-1. Set the `RENDER` environment variable
-2. Configure the `DATABASE_URL` for PostgreSQL
-3. Use `gunicorn` for serving the application:
-   ```bash
-   gunicorn wsgi:app
-   ```
 
 ## 🤝 Contributing
 
